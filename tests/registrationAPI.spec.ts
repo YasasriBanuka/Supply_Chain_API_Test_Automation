@@ -17,6 +17,7 @@ test.describe('Registration API Tests', () => {
         console.log('Response Body:', responseBody);
 
         expect(response.status()).toBe(201);
+
     });
 
 });
