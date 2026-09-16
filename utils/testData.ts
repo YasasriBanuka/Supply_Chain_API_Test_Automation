@@ -1,3 +1,5 @@
+
+// Registration form data
 export const registrationData = {
     firstName: 'Banuka',
     lastName: 'Dias',
